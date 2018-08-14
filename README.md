@@ -2,6 +2,12 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+#### NoteToReviewer See [writeup.md](./writeup.md)
+
+This repo is for personal coursework.<br/>
+It is a clone of [CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1)
+the first project for [Udacity Self Driving Car](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)<br/>
++++++++++++++++++++++++
 
 Overview
 ---
